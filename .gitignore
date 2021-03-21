@@ -1,0 +1,7 @@
+*DS_Store
+*.csv
+*.txt
+.settings/
+log
+.old-git/
+*.jar
